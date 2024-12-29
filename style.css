@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    background-color: aquamarine;
+    height: 13vh;
+    padding-top: 16px;
+}
+
+.para{
+    padding-left: 280px;
+    font-weight: bold;
+    margin-top: 60px;
+    font-size: large;
+   
+}
+
+ button{
+    margin-left: 550px;
+    margin-top: 10px;
+    background-color: rgb(91, 44, 88);
+    border-radius: 10px;
+    width: 10vw;
+    height: 8vh;
+    border: 1px solid beige;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+button:hover{
+    background-color: rgb(65, 9, 60);
+}
