@@ -1,1 +1,1 @@
-# Javascript-Tasks
+# Javascript-Easy-Tasks
